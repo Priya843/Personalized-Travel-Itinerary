@@ -20,8 +20,11 @@
 <ul>
 <li>
   <ol>Basic User Input: The app starts by collecting essential trip details (e.g., destination, duration, budget, and preferences). If any mandatory field is missing, the user is prompted to complete it.</ol>
+  <br>
   <ol>Refinement: Users can provide additional details like specific cities, dietary restrictions, and mobility concerns. This ensures a more tailored itinerary.</ol>
+  <br>
   <ol>Itinerary Generation: The refined inputs are passed to OpenAI's API to create a detailed itinerary. The app handles potential errors and provides feedback in case of issues.</ol>
+  <br>
 </li>
 </ul>
 <hr>
