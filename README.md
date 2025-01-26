@@ -6,5 +6,5 @@
 </p>
 <hr>
 <h2><u>Deliverables</u></h2>
-<img src="g1.jpg" alt="Girl in a jacket">
+<img src="g1.png" alt="Girl in a jacket">
 <hr>
