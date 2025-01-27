@@ -1,8 +1,8 @@
 import streamlit as st
 import openai
 
-
-openai.api_key = "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"
+# Get the API key from Streamlit Secrets
+openai.api_key = st.secrets["OPENAI_API_KEY"]
 
 # Initialize session state for input persistence
 if "refine_details" not in st.session_state:
