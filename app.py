@@ -2,7 +2,7 @@ import streamlit as st
 import openai
 
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 # Initialize session state for input persistence
 if "refine_details" not in st.session_state:
